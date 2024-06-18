@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            linkLabel1.to
         }
     }
 }
